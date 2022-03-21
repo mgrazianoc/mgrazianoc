@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Full Cycle developer, from web-browser and mobile, infrastructure and cloud, databases and queues, all to the final acceptance test.
 
-Top three languages in order of experctize: Python, TypeScript, Rust.
+Top four languages in order of experctize: Python, TypeScript, Rust and Kotlin.
