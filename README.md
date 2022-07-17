@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Full Cycle developer, from web-browser and mobile, infrastructure and cloud, databases and queues, all to the final acceptance test.
+Full Cycle developer, from web-browser and mobile, infrastructure and cloud, databases and data piplines, queues and serverless, all to the final acceptance test.
 
 Top four languages in order of experctize: Python, Rust, Kotlin and TypeScript.
