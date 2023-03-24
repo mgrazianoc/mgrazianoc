@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 Full Cycle developer, from web-browser and mobile, infrastructure and cloud, databases and data piplines, queues and serverless, all to the final acceptance test.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgrazianoc&count_private=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgrazianoc&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
