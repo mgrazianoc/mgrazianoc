@@ -50,5 +50,3 @@ Full Cycle developer, from web-browser and mobile, infrastructure and cloud, dat
 ![](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgrazianoc&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgrazianoc&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
